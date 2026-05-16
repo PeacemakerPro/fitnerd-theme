@@ -1,0 +1,88 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "cart-items": {
+      "type": "main-cart-items",
+      "custom_css": [
+        ".underlined-link {color: #000;}"
+      ],
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "cart-footer": {
+      "type": "main-cart-footer",
+      "blocks": {
+        "subtotal": {
+          "type": "subtotal",
+          "settings": {}
+        },
+        "buttons": {
+          "type": "buttons",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "subtotal",
+        "buttons"
+      ],
+      "custom_css": [
+        "a {color: #000;}"
+      ],
+      "settings": {}
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "heading_size": "h2",
+        "collection": "all",
+        "products_to_show": 4,
+        "mobile_column": "2",
+        "show_slider_arrows": true,
+        "arrow_location": "top",
+        "color_scheme": "background-1",
+        "heading_color": "",
+        "button_background_color": "button-bg-accent-1",
+        "button_text_color": "button-text-white",
+        "show_view_all_button": true,
+        "view_all_button_location": "top",
+        "view_all_button_location_mobile": "top",
+        "view_all_button_text": "View all",
+        "view_all_button_link": "shopify://collections/all",
+        "view_all_button_style": "primary",
+        "view_all_button_style_mobile": "underlined",
+        "view_all_button_background_color": "button-bg-accent-1",
+        "view_all_button_text_color": "button-text-white",
+        "view_all_underline_button_text_color": "button-text-accent-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_compare_at_price": true,
+        "enable_quick_add": true,
+        "quick_add_button_text": "Shop now",
+        "button_style": "primary",
+        "button_action": "add-to-cart",
+        "card_spacing_desktop": 40,
+        "card_spacing_mobile": 10,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "cart-items",
+    "cart-footer",
+    "featured-collection"
+  ]
+}

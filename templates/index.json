@@ -1,0 +1,678 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "165830452970c719a0": {
+      "type": "image-with-text",
+      "blocks": {
+        "16583045297ba16bc1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mind, Body & Wellness",
+            "heading_size": "hxl"
+          }
+        },
+        "16583045297ba16bc1-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Science meets quality for your wellness needs.</p>",
+            "text_style": "body"
+          }
+        },
+        "38f4f2e7-0b88-4aca-9216-53e1f56261d2": {
+          "type": "caption",
+          "settings": {
+            "caption": "Free Shipping On Orders $50+",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "16583045297ba16bc1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify://collections/all"
+          }
+        },
+        "usp": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "usp_icon_color": "icon-text-color",
+            "custom_icon1": "",
+            "icon1": "icon-100-natural",
+            "label1": "Lorem ipsum",
+            "text1": "",
+            "custom_icon2": "",
+            "icon2": "icon-100-natural",
+            "label2": "Lorem ipsum",
+            "text2": "",
+            "custom_icon3": "",
+            "icon3": "icon-100-natural",
+            "label3": "Lorem ipsum",
+            "text3": ""
+          }
+        }
+      },
+      "block_order": [
+        "16583045297ba16bc1-0",
+        "16583045297ba16bc1-1",
+        "38f4f2e7-0b88-4aca-9216-53e1f56261d2",
+        "16583045297ba16bc1-2",
+        "usp"
+      ],
+      "custom_css": [
+        "img {object-fit: contain;}"
+      ],
+      "settings": {
+        "video": "",
+        "image": "shopify://shop_images/hero_fit_nerd.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "selling_point_orientation": "horizontal",
+        "selling_point_style": "usp-normal",
+        "color_scheme": "background-1",
+        "color_text": "color1",
+        "heading_color": "#2d2221",
+        "button_background_color": "button-bg-accent-1",
+        "button_text_color": "button-text-white",
+        "review_color": "icon-rating-color",
+        "mobile_content_alignment": "left",
+        "padding_left": 10,
+        "padding_right": 175,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "usp": {
+      "type": "usp",
+      "blocks": {
+        "column-2": {
+          "type": "column",
+          "settings": {
+            "custom_icon": "",
+            "icon": "icon-memory-and-cognition",
+            "title": "Scientifically Formulated",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-1": {
+          "type": "column",
+          "settings": {
+            "custom_icon": "",
+            "icon": "icon-holistic-health",
+            "title": "Straightforward Ingredients",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column-0": {
+          "type": "column",
+          "settings": {
+            "custom_icon": "",
+            "icon": "icon-100-organic",
+            "title": "For Your Evolution",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column-2",
+        "column-1",
+        "column-0"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "heading_position": "align-center",
+        "usp_title_style": "usp-normal",
+        "columns_desktop": 3,
+        "column_orientation": "horizontal",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-2",
+        "icon_color": "icon-text-color",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "1a8fe40f-b8b1-462d-a8bb-28557195838b": {
+      "type": "collection-list",
+      "blocks": {
+        "template--16247252189380__1a8fe40f-b8b1-462d-a8bb-28557195838b-featured_collection-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "all-natural"
+          }
+        },
+        "template--16247252189380__1a8fe40f-b8b1-462d-a8bb-28557195838b-featured_collection-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mushrooms"
+          }
+        },
+        "template--16247252189380__1a8fe40f-b8b1-462d-a8bb-28557195838b-featured_collection-3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "vitamins"
+          }
+        }
+      },
+      "block_order": [
+        "template--16247252189380__1a8fe40f-b8b1-462d-a8bb-28557195838b-featured_collection-1",
+        "template--16247252189380__1a8fe40f-b8b1-462d-a8bb-28557195838b-featured_collection-2",
+        "template--16247252189380__1a8fe40f-b8b1-462d-a8bb-28557195838b-featured_collection-3"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "heading_color": "",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "165961087609747ad0": {
+      "type": "image-with-text",
+      "blocks": {
+        "1659610876a2a419ff-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "About The FIT NERD",
+            "heading_size": "h0"
+          }
+        },
+        "1659610876a2a419ff-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Fit Nerd was created for busy people like you (and me) that are striving to balance careers and personal wellbeing, health, and fitness in order to deliver at work and at home.</p>",
+            "text_style": "body"
+          }
+        },
+        "584ed449-6eae-452b-95af-b36e097f6cf2": {
+          "type": "usp",
+          "settings": {
+            "usp_icon_color": "icon-accent-color-1",
+            "custom_icon1": "",
+            "icon1": "icon-100-organic",
+            "label1": "WHY DO WE EXIST?",
+            "text1": "The Fit Nerd set out to provide busy humans with simple, high-quality products that improve individual wellbeing and allow people to perform at their best.",
+            "custom_icon2": "",
+            "icon2": "icon-holistic-health",
+            "label2": "HOW DO WE DO IT?",
+            "text2": "We do this by working with reputable vendors to provide high-quality, science based products for your mind, body, and overall wellbeing.",
+            "custom_icon3": "",
+            "icon3": "icon-grass-fed",
+            "label3": "WHAT ARE WE?",
+            "text3": "A single place that provides you with access to a variety of high-quality, scientifically formulated supplements."
+          }
+        },
+        "1659610876a2a419ff-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Learn more",
+            "button_link": "#"
+          }
+        }
+      },
+      "block_order": [
+        "1659610876a2a419ff-0",
+        "1659610876a2a419ff-1",
+        "584ed449-6eae-452b-95af-b36e097f6cf2",
+        "1659610876a2a419ff-2"
+      ],
+      "settings": {
+        "video": "",
+        "image": "shopify://shop_images/remote-work-girl-freelancer-works-remotely-on-the-2023-11-27-04-48-42-utc_1.svg",
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "selling_point_orientation": "vertical",
+        "selling_point_style": "usp-normal",
+        "color_scheme": "background-2",
+        "color_text": "color1",
+        "heading_color": "#59595c",
+        "button_background_color": "button-bg-accent-1",
+        "button_text_color": "button-text-white",
+        "review_color": "icon-rating-color",
+        "mobile_content_alignment": "left",
+        "padding_left": 55,
+        "padding_right": 55,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "166144587727dc6d7f": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Our Bestsellers",
+        "heading_size": "h2",
+        "collection": "bestsellers",
+        "products_to_show": 12,
+        "mobile_column": "2",
+        "show_slider_arrows": true,
+        "arrow_location": "top",
+        "color_scheme": "background-1",
+        "heading_color": "",
+        "button_background_color": "button-bg-accent-1",
+        "button_text_color": "button-text-accent-1",
+        "show_view_all_button": true,
+        "view_all_button_location": "top",
+        "view_all_button_location_mobile": "bottom",
+        "view_all_button_text": "View all",
+        "view_all_button_link": "shopify://collections/all",
+        "view_all_button_style": "primary",
+        "view_all_button_style_mobile": "underlined",
+        "view_all_button_background_color": "button-bg-accent-1",
+        "view_all_button_text_color": "button-text-white",
+        "view_all_underline_button_text_color": "button-text-accent-1",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "show_compare_at_price": true,
+        "enable_quick_add": false,
+        "quick_add_button_text": "Shop now",
+        "button_style": "underlined",
+        "button_action": "add-to-cart",
+        "card_spacing_desktop": 40,
+        "card_spacing_mobile": 0,
+        "padding_top": 40,
+        "padding_bottom": 80
+      }
+    },
+    "943b9e53-9e40-440f-aeca-ec831f093c74": {
+      "type": "section-ingredients",
+      "blocks": {
+        "template--16355781771505__943b9e53-9e40-440f-aeca-ec831f093c74-1669895199213395c7-0": {
+          "type": "ingredient",
+          "settings": {
+            "label": "Immunity",
+            "title": "Turkey tail",
+            "text": "<p>An all-natural immunomodolation remedy that is scientifically proven to increase antioxidant and immune functions in the body</p>"
+          }
+        },
+        "5145016d-c09c-4ae7-a8e3-45884e817e38": {
+          "type": "ingredient",
+          "settings": {
+            "label": "Cognitive Performance",
+            "title": "Lion's Mane",
+            "text": "<p>A cognitive enhancer that can reduce the symptoms of anxiety and depression, and repairs nerve damage</p>"
+          }
+        },
+        "1aa14e22-d61d-4188-9664-0660da5c792c": {
+          "type": "ingredient",
+          "settings": {
+            "label": "energy & libido",
+            "title": "Cordyceps",
+            "text": "<p>From improved energy levels to enhanced libido, Cordyceps increases endurance, cardio and boosts sleep quality</p>"
+          }
+        },
+        "template--16355781771505__943b9e53-9e40-440f-aeca-ec831f093c74-1669895199213395c7-1": {
+          "type": "ingredient",
+          "settings": {
+            "label": "energy",
+            "title": "Reishi",
+            "text": "<p>A natural remedy proven to fight fatigue, leading to increased awareness, greater mental focus and reduced tiredness</p>"
+          }
+        },
+        "template--16355781771505__943b9e53-9e40-440f-aeca-ec831f093c74-1669895199213395c7-2": {
+          "type": "ingredient",
+          "settings": {
+            "label": "cardiovascular health",
+            "title": "Maitake",
+            "text": "<p>A rich source of dietary fiber which reduces bad cholesterol levels aiding in cardiovascular health abd reducing inflammation</p>"
+          }
+        },
+        "7560e34c-dfe6-4793-b72f-1f36da55c025": {
+          "type": "ingredient",
+          "settings": {
+            "label": "weight loss",
+            "title": "Shiitake",
+            "text": "<p>A source of various B vitamins that increase energy production in our cells, increased mental clarity and enhances mood</p>"
+          }
+        },
+        "fa260652-3093-4599-8f32-e8e03ff557e3": {
+          "type": "ingredient",
+          "settings": {
+            "label": "Antioxidant",
+            "title": "Chaga",
+            "text": "<p>A potent and natural antioxidant know for its powerful anti-inflammatory and immunity boosting properties</p>"
+          }
+        },
+        "01ad3540-c2f4-4f44-a810-06319ff10482": {
+          "type": "ingredient",
+          "settings": {
+            "label": "Immunity",
+            "title": "Royal sun",
+            "text": "<p>A natural substance which has been proven effective against autoimmune disorders and allergies without nasty side-effects</p>"
+          }
+        },
+        "5dbf613c-65a9-4580-b377-281231a97703": {
+          "type": "ingredient",
+          "settings": {
+            "label": "gut health",
+            "title": "White button",
+            "text": "<p>One of the only non-animal food sources naturally rich in lovastatin, an important inhibitor of cholesterol production</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16355781771505__943b9e53-9e40-440f-aeca-ec831f093c74-1669895199213395c7-0",
+        "5145016d-c09c-4ae7-a8e3-45884e817e38",
+        "1aa14e22-d61d-4188-9664-0660da5c792c",
+        "template--16355781771505__943b9e53-9e40-440f-aeca-ec831f093c74-1669895199213395c7-1",
+        "template--16355781771505__943b9e53-9e40-440f-aeca-ec831f093c74-1669895199213395c7-2",
+        "7560e34c-dfe6-4793-b72f-1f36da55c025",
+        "fa260652-3093-4599-8f32-e8e03ff557e3",
+        "01ad3540-c2f4-4f44-a810-06319ff10482",
+        "5dbf613c-65a9-4580-b377-281231a97703"
+      ],
+      "disabled": true,
+      "settings": {
+        "enable_slider": true,
+        "title": "",
+        "subtitle": "",
+        "heading_size": "h1",
+        "heading_position": "center",
+        "heading_width": 560,
+        "column_alignment": "center",
+        "background_style": "secondary",
+        "ingredient_image_type": "circle",
+        "label_color": "badge-accent-2",
+        "label_style": "label-outline",
+        "color_scheme": "background-1",
+        "heading_color": "",
+        "card_heading_color": "",
+        "padding_top": 80,
+        "padding_bottom": 80
+      }
+    },
+    "5e97bc77-4afe-4fc4-b2b7-c4b0c0f647e6": {
+      "type": "rich-text",
+      "disabled": true,
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "heading_color": "",
+        "button_background_color": "button-bg-accent-1",
+        "button_text_color": "button-text-white",
+        "show_icon": true,
+        "icon_color": "icon-accent-color-1",
+        "icon_style": "solid",
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "1659610799cb699417": {
+      "type": "rich-text",
+      "blocks": {
+        "165961079870524f7f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>30 days hassle-free returns</p>",
+            "heading_size": "h1"
+          }
+        },
+        "165961079870524f7f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>We have a no-questions-asked returns policy. Just drop us a line within 30 days and consider it done.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "165961079870524f7f-0",
+        "165961079870524f7f-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "accent-2",
+        "heading_color": "#ffffff",
+        "button_background_color": "button-bg-accent-1",
+        "button_text_color": "button-text-white",
+        "show_icon": true,
+        "icon_color": "icon-accent-color-1",
+        "icon_style": "solid",
+        "padding_top": 60,
+        "padding_bottom": 60
+      }
+    },
+    "1659610964a5e0d106": {
+      "type": "community-feed",
+      "blocks": {
+        "165961096453602b15-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/delicious-green-smoothie-with-avocado.jpg",
+            "button_text": "Follow",
+            "button_url": "",
+            "open_new_tab": true
+          }
+        },
+        "165961096453602b15-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/young-woman-holding-tea-cup-relaxing-spa-salon.jpg",
+            "button_text": "Follow",
+            "button_url": "",
+            "open_new_tab": true
+          }
+        },
+        "165961096453602b15-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/natural-spa-coloured-sand-different-bowls.jpg",
+            "button_text": "Follow",
+            "button_url": "",
+            "open_new_tab": true
+          }
+        },
+        "165961096453602b15-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/pexels-fauxels-3184296.jpg",
+            "button_text": "Follow",
+            "button_url": "",
+            "open_new_tab": true
+          }
+        },
+        "165961096453602b15-4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/avocado-hass-and-half-of-avocado-on-dark-green-bac-2023-11-27-05-14-43-utc_1.png",
+            "button_text": "Follow",
+            "button_url": "",
+            "open_new_tab": true
+          }
+        },
+        "9ee1ea40-a844-47be-ba53-54135867494c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/pexels-angela-roma-7479794.jpg",
+            "button_text": "Follow",
+            "button_url": "",
+            "open_new_tab": true
+          }
+        },
+        "3001c619-3cdd-4515-a2dd-bb9c26a4295b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/various-organic-fruits-2023-11-27-05-28-02-utc_1.png",
+            "button_text": "Follow",
+            "button_url": "",
+            "open_new_tab": true
+          }
+        },
+        "8a747a7c-5dae-4783-bb6e-4abb1b2d26ec": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/office-life-group-of-young-business-people-workin-2023-11-27-05-25-09-utc_1.png",
+            "button_text": "Follow",
+            "button_url": "",
+            "open_new_tab": true
+          }
+        }
+      },
+      "block_order": [
+        "165961096453602b15-0",
+        "165961096453602b15-1",
+        "165961096453602b15-2",
+        "165961096453602b15-3",
+        "165961096453602b15-4",
+        "9ee1ea40-a844-47be-ba53-54135867494c",
+        "3001c619-3cdd-4515-a2dd-bb9c26a4295b",
+        "8a747a7c-5dae-4783-bb6e-4abb1b2d26ec"
+      ],
+      "settings": {
+        "title": "Follow us for useful tips",
+        "heading_size": "h1",
+        "subtitle": "Tag @fitnerdco to get featured",
+        "card_button_style": "outline",
+        "button_text": "Follow @fitnerdco",
+        "button_url": "https://www.instagram.com/fitnerdco?fbclid=IwAR1DJLdpoP-9voTCamvCb_fJnSj_xYRtla7ztFMdXWMchVVy6abzuWXOhOk",
+        "is_new_tab": true,
+        "color_scheme": "background-1",
+        "heading_color": "",
+        "card_button_color": "button-accent-color-2",
+        "button_background_color": "button-bg-accent-1",
+        "button_text_color": "button-text-white",
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "1661420114bc28c582": {
+      "type": "image-banner",
+      "blocks": {
+        "1661420114798b3128-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Quality. Science. Wellness.",
+            "heading_size": "h2"
+          }
+        },
+        "1661420114798b3128-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "HARNESS THE POWER OF ADAPTOGENS",
+            "text_style": "caption-with-letter-spacing"
+          }
+        },
+        "1661420114798b3128-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop now",
+            "button_link_1": "shopify://collections/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1661420114798b3128-0",
+        "1661420114798b3128-1",
+        "1661420114798b3128-2"
+      ],
+      "custom_css": [
+        "@media screen and (max-width: 749px) {.banner__content {position: absolute; top: 50%; bottom: 50%; min-height: unset; }}"
+      ],
+      "settings": {
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/9c80c74861c94b0db7207a46f3d24fc8.mp4",
+        "image_overlay_opacity": 30,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "max_width": 660,
+        "height": 560,
+        "color_scheme": "background-1",
+        "heading_color": "#ffffff",
+        "color_text": "color2",
+        "button_background_color": "button-bg-accent-1",
+        "button_text_color": "button-text-white",
+        "review_color": "icon-rating-color",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "1707624541087bcd4b": {
+      "type": "apps",
+      "blocks": {
+        "loox_reviews_loox_trust_badge_3xWQfb": {
+          "type": "shopify://apps/loox-reviews/blocks/loox-trust-badge/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+          "settings": {
+            "layout": "horizontal",
+            "alignment": "left",
+            "scheme-type": "default",
+            "review-title": "reviews",
+            "rating-icon": true,
+            "average-rating": true,
+            "loox-branding": true,
+            "review-count": true,
+            "open-reviews": true,
+            "show-border": true,
+            "border-radius": 8,
+            "font-size": 20,
+            "background-color": "",
+            "secondary-background-color": "",
+            "text-color": "",
+            "rating-icon-color": "",
+            "border-color": ""
+          }
+        }
+      },
+      "block_order": [
+        "loox_reviews_loox_trust_badge_3xWQfb"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "165830452970c719a0",
+    "usp",
+    "1a8fe40f-b8b1-462d-a8bb-28557195838b",
+    "165961087609747ad0",
+    "166144587727dc6d7f",
+    "943b9e53-9e40-440f-aeca-ec831f093c74",
+    "5e97bc77-4afe-4fc4-b2b7-c4b0c0f647e6",
+    "1659610799cb699417",
+    "1659610964a5e0d106",
+    "1661420114bc28c582",
+    "1707624541087bcd4b"
+  ]
+}

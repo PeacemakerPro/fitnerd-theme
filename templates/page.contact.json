@@ -1,0 +1,68 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "is_enabled_breadcrumbs": false,
+        "is_enabled_breadcrumbs_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "color_scheme": "background-1",
+        "heading_color": "",
+        "button_background_color": "button-bg-accent-1",
+        "button_text_color": "button-text-white",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_eHracz": {
+      "type": "rich-text",
+      "blocks": {
+        "text_xaJjPw": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Fit Nerd is a brand of Make It So, LLC. </p><p>Make It So, LLC is a Washington State corporation located at 723 The Parkway in Richland, WA, 99352 USA. Along with using the above contact form, we can also be reached at service@fitnerd.co or 509-492-2412.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_xaJjPw"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "full_width": true,
+        "color_scheme": "background-1",
+        "heading_color": "",
+        "button_background_color": "button-bg-accent-1",
+        "button_text_color": "button-text-white",
+        "show_icon": true,
+        "icon_color": "icon-accent-color-1",
+        "icon_style": "solid",
+        "padding_top": 60,
+        "padding_bottom": 40
+      }
+    }
+  },
+  "order": [
+    "main",
+    "form",
+    "rich_text_eHracz"
+  ]
+}

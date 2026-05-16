@@ -1,0 +1,318 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "is_enabled_breadcrumbs": false,
+        "is_enabled_breadcrumbs_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "ddb18291-429b-48c4-9df6-003f6de97b90": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16258299527364__ddb18291-429b-48c4-9df6-003f6de97b90-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Welcome to The Fit Nerd",
+            "heading_size": "h0"
+          }
+        },
+        "template--16258299527364__ddb18291-429b-48c4-9df6-003f6de97b90-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--16258299527364__ddb18291-429b-48c4-9df6-003f6de97b90-buttons-1": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16258299527364__ddb18291-429b-48c4-9df6-003f6de97b90-heading-1",
+        "template--16258299527364__ddb18291-429b-48c4-9df6-003f6de97b90-text-1",
+        "template--16258299527364__ddb18291-429b-48c4-9df6-003f6de97b90-buttons-1"
+      ],
+      "custom_css": [
+        "@media screen and (max-width: 749px) {.banner__heading {color: #000; }}"
+      ],
+      "settings": {
+        "video_url": "",
+        "image": "shopify://shop_images/pexels-william-choquette-1954524.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "max_width": 370,
+        "height": 560,
+        "color_scheme": "background-1",
+        "heading_color": "#ffffff",
+        "color_text": "color1",
+        "button_background_color": "button-bg-accent-1",
+        "button_text_color": "button-text-white",
+        "review_color": "icon-rating-color",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "51bc439f-9f78-4e0a-9649-c3cee024b5ab": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16258299527364__51bc439f-9f78-4e0a-9649-c3cee024b5ab-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Us",
+            "heading_size": "h1"
+          }
+        },
+        "template--16258299527364__51bc439f-9f78-4e0a-9649-c3cee024b5ab-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>The Fit Nerd was created for busy people like you (and me) that are striving to balance careers and personal wellbeing, health, and fitness in order to deliver at work and at home. As a busy professional in a high-stress field, I’ve struggled with finding balance and harmony in the day to day. </p>",
+            "text_style": "body"
+          }
+        },
+        "template--16258299527364__51bc439f-9f78-4e0a-9649-c3cee024b5ab-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16258299527364__51bc439f-9f78-4e0a-9649-c3cee024b5ab-heading-1",
+        "template--16258299527364__51bc439f-9f78-4e0a-9649-c3cee024b5ab-text-1",
+        "template--16258299527364__51bc439f-9f78-4e0a-9649-c3cee024b5ab-button-1"
+      ],
+      "settings": {
+        "video": "",
+        "image": "shopify://shop_images/pexels-alexander-suhorucov-6457515.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "selling_point_orientation": "horizontal",
+        "selling_point_style": "usp-normal",
+        "color_scheme": "background-1",
+        "color_text": "color1",
+        "heading_color": "",
+        "button_background_color": "button-bg-accent-1",
+        "button_text_color": "button-text-white",
+        "review_color": "icon-rating-color",
+        "mobile_content_alignment": "left",
+        "padding_left": 70,
+        "padding_right": 70,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "cb3bbfed-0761-4a70-8af1-3c909b64b7b8": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16258299527364__cb3bbfed-0761-4a70-8af1-3c909b64b7b8-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--16258299527364__cb3bbfed-0761-4a70-8af1-3c909b64b7b8-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In an environment where good sleep, consistent exercise, and proper nutrition can be exceptionally challenging, I’ve spent my adult life working to dial in what I need to perform my best personally and professionally. I’ve worked relentlessly with a functional medicine physician to optimize my health.</p>",
+            "text_style": "body"
+          }
+        },
+        "template--16258299527364__cb3bbfed-0761-4a70-8af1-3c909b64b7b8-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16258299527364__cb3bbfed-0761-4a70-8af1-3c909b64b7b8-heading-1",
+        "template--16258299527364__cb3bbfed-0761-4a70-8af1-3c909b64b7b8-text-1",
+        "template--16258299527364__cb3bbfed-0761-4a70-8af1-3c909b64b7b8-button-1"
+      ],
+      "settings": {
+        "video": "",
+        "image": "shopify://shop_images/pexels-andrea-piacquadio-866023.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "selling_point_orientation": "horizontal",
+        "selling_point_style": "usp-normal",
+        "color_scheme": "background-1",
+        "color_text": "color1",
+        "heading_color": "",
+        "button_background_color": "button-bg-accent-1",
+        "button_text_color": "button-text-white",
+        "review_color": "icon-rating-color",
+        "mobile_content_alignment": "left",
+        "padding_left": 70,
+        "padding_right": 70,
+        "padding_top": 40,
+        "padding_bottom": 40
+      }
+    },
+    "090a4e25-09d7-4a54-bb7a-ea91e511d3f7": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16258299527364__090a4e25-09d7-4a54-bb7a-ea91e511d3f7-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image with text",
+            "heading_size": "h1"
+          }
+        },
+        "template--16258299527364__090a4e25-09d7-4a54-bb7a-ea91e511d3f7-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>I’ve tried tons of supplements and vitamins. I’ve tried thousands of exercise routines and bought thousands of dollars worth of fitness gear. I’ve spent hundreds of hours researching how to optimize my mind and my body. That’s why this brand exists. </p><p>After many years of trying to find what clicks for me, I also discovered that I couldn’t get what I wanted in one place.</p><p>Now I can, because I created it. I think there are lots of people out there like me, and so I think you’ll find this brand useful too.</p><p></p><p>The Fit Nerd is a brand owned by Make It So, LLC.</p>",
+            "text_style": "body"
+          }
+        },
+        "template--16258299527364__090a4e25-09d7-4a54-bb7a-ea91e511d3f7-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16258299527364__090a4e25-09d7-4a54-bb7a-ea91e511d3f7-heading-1",
+        "template--16258299527364__090a4e25-09d7-4a54-bb7a-ea91e511d3f7-text-1",
+        "template--16258299527364__090a4e25-09d7-4a54-bb7a-ea91e511d3f7-button-1"
+      ],
+      "settings": {
+        "video": "",
+        "image": "shopify://shop_images/pexels-barbara-olsen-7869594.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "selling_point_orientation": "horizontal",
+        "selling_point_style": "usp-normal",
+        "color_scheme": "background-1",
+        "color_text": "color1",
+        "heading_color": "",
+        "button_background_color": "button-bg-accent-1",
+        "button_text_color": "button-text-white",
+        "review_color": "icon-rating-color",
+        "mobile_content_alignment": "left",
+        "padding_left": 70,
+        "padding_right": 70,
+        "padding_top": 40,
+        "padding_bottom": 92
+      }
+    },
+    "da0d2c62-761c-4e31-8d92-0305a1a701dc": {
+      "type": "image-banner",
+      "blocks": {
+        "template--16258299527364__da0d2c62-761c-4e31-8d92-0305a1a701dc-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unlock Your Wellness",
+            "heading_size": "h1"
+          }
+        },
+        "template--16258299527364__da0d2c62-761c-4e31-8d92-0305a1a701dc-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "2c80cf58-b524-4178-b047-0699d529ce6f": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "shop now",
+            "button_link_1": "shopify://collections/all",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16258299527364__da0d2c62-761c-4e31-8d92-0305a1a701dc-heading-1",
+        "template--16258299527364__da0d2c62-761c-4e31-8d92-0305a1a701dc-text-1",
+        "2c80cf58-b524-4178-b047-0699d529ce6f"
+      ],
+      "custom_css": [
+        "@media screen and (max-width: 749px) {.banner__heading {color: #000; }}"
+      ],
+      "settings": {
+        "video_url": "https://cdn.shopify.com/videos/c/o/v/076b550a9fa94f129bf864c62fc714e5.mp4",
+        "image_overlay_opacity": 30,
+        "image_height": "large",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "max_width": 370,
+        "height": 560,
+        "color_scheme": "background-1",
+        "heading_color": "#ffffff",
+        "color_text": "color1",
+        "button_background_color": "button-bg-accent-1",
+        "button_text_color": "button-text-white",
+        "review_color": "icon-rating-color",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "main",
+    "ddb18291-429b-48c4-9df6-003f6de97b90",
+    "51bc439f-9f78-4e0a-9649-c3cee024b5ab",
+    "cb3bbfed-0761-4a70-8af1-3c909b64b7b8",
+    "090a4e25-09d7-4a54-bb7a-ea91e511d3f7",
+    "da0d2c62-761c-4e31-8d92-0305a1a701dc"
+  ]
+}
