@@ -166,7 +166,8 @@
         "text3": "",
         "padding_top": 80,
         "padding_bottom": 80
-      }
+      },
+      "disabled": true
     },
     "collapsible-content": {
       "type": "collapsible-content",
@@ -185,7 +186,7 @@
           "settings": {
             "heading": "When will I receive my products?",
             "icon": "none",
-            "row_content": "<p>All products are shipped out from our fulfilment center within 1-3 business days and on average it takes 1-5 business days to deliver your order. If things go smoothly, you place your order on Monday you should receive it by Friday the same week.<br/><br/>Every now and then, such as holiday seasons, there may be a delay on orders due to the high volume coming in within such a short time period. We value being transparent with our customers, so please be patient as we are a small team doing the best we can! Thanks for your understanding.</p>",
+            "row_content": "<p>All products are shipped out from our fulfillment center within 1-3 business days and on average it takes 1-5 business days to deliver your order. If things go smoothly, you place your order on Monday you should receive it by Friday the same week.<br/><br/>Every now and then, such as holiday seasons, there may be a delay on orders due to the high volume coming in within such a short time period. We value being transparent with our customers, so please be patient as we are a small team doing the best we can! Thanks for your understanding.</p>",
             "page": ""
           }
         },
@@ -266,7 +267,7 @@
           "type": "benefit",
           "settings": {
             "title": "Getting started",
-            "text": "<p>The first 1-3 months are the most challenging. Its critical to stay consistent and disiciplined.</p>"
+            "text": "<p>The first 1-3 months are the most challenging. It's critical to stay consistent and disciplined.</p>"
           }
         },
         "template--14607936520259__beea818a-d56a-4c13-8d8f-8d7b612c5662-1667497677c56d5c72-1": {
@@ -280,7 +281,7 @@
           "type": "benefit",
           "settings": {
             "title": "Long lasting effect",
-            "text": "<p>Keep your routine going. Remember that you can loose everything in just one day.</p>"
+            "text": "<p>Keep your routine going. Remember that you can lose everything in just one day.</p>"
           }
         }
       },
