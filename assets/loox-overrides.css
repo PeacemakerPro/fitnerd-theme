@@ -1,0 +1,30 @@
+/* Cowork override: hide Loox floating widgets on mobile only.
+   Loox injects a Reviews floating tab and a Referrals "Get $X" floating tab
+   on the right edge of the page. They overlap product content on small screens.
+   Desktop is unaffected. Refine selectors if specific widgets still appear. */
+
+@media screen and (max-width: 749px) {
+  /* Loox Reviews floating widget patterns */
+  .loox-floating-button,
+  .loox-floating-widget,
+  [class*="loox-floating"],
+  [id*="loox-floating"],
+  [class*="loox-sticky"],
+  [id*="loox-sticky"],
+  iframe[src*="loox"][src*="floating"],
+  iframe[id*="loox-floating"],
+
+  /* Loox Referrals (Get $X tab) patterns */
+  .loox-referrals-floating,
+  [class*="loox-referrals"][class*="float"],
+  [id*="loox-referrals"][id*="float"],
+
+  /* Generic Loox fixed-position containers */
+  div[class*="loox"][style*="position:fixed"],
+  div[class*="loox"][style*="position: fixed"],
+  div[id*="loox"][style*="position:fixed"],
+  div[id*="loox"][style*="position: fixed"] {
+    display: none !important;
+    visibility: hidden !important;
+  }
+}
